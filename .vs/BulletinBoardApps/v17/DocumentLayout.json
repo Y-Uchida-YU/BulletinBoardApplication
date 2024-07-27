@@ -9,6 +9,42 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ApplicationSource\\BulletinBoardApps\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VSWorkspaceState.json",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\.vs\\VSWorkspaceState.json",
+              "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\.vs\\VSWorkspaceState.json",
+              "RelativeToolTip": ".vs\\VSWorkspaceState.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T09:19:35.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:29.271Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +90,7 @@
               "RelativeDocumentMoniker": "BulletinBoardApps\\Program.cs",
               "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Program.cs",
               "RelativeToolTip": "BulletinBoardApps\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T09:09:59.109Z",
               "EditorCaption": ""
@@ -41,9 +103,100 @@
               "RelativeDocumentMoniker": "BulletinBoardApps\\BulletinBoardApps.csproj",
               "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\BulletinBoardApps.csproj",
               "RelativeToolTip": "BulletinBoardApps\\BulletinBoardApps.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-27T09:09:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:40.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:49.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Error.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:26.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "BulletinBoardApps\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:16:19.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\appsettings.json",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\appsettings.json",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\appsettings.json",
+              "RelativeToolTip": "BulletinBoardApps\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T09:15:47.394Z",
               "EditorCaption": ""
             }
           ]
