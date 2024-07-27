@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulletinBoardApps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ff87492e13041f054bcdcb4213b7cafb1e29e82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a5f94d366f1e784f3241de7570c7aadcd1528c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulletinBoardApps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulletinBoardApps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
