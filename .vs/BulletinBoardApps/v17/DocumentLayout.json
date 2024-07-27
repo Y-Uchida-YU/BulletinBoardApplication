@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ApplicationSource\\BulletinBoardApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\bulletinboardapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\bulletinboardapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|c:\\applicationsource\\bulletinboardapps\\bulletinboardapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C680C5F-7FB8-4ACB-87F3-17B5E63F869B}|BulletinBoardApps\\BulletinBoardApps.csproj|solutionrelative:bulletinboardapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Program.cs",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\Program.cs",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\Program.cs",
+              "RelativeToolTip": "BulletinBoardApps\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:09:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletinBoardApps.csproj",
+              "DocumentMoniker": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\BulletinBoardApps.csproj",
+              "RelativeDocumentMoniker": "BulletinBoardApps\\BulletinBoardApps.csproj",
+              "ToolTip": "C:\\ApplicationSource\\BulletinBoardApps\\BulletinBoardApps\\BulletinBoardApps.csproj",
+              "RelativeToolTip": "BulletinBoardApps\\BulletinBoardApps.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T09:09:47.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
