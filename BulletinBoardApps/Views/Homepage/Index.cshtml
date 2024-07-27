@@ -1,0 +1,16 @@
+﻿<!-- Views/Home/Index.cshtml -->
+@model IEnumerable<BulletinBoardApps.Models.Post>
+
+<h1>掲示板</h1>
+
+@foreach (var post in Model)
+{
+    <div>
+        <h2>@post.Title</h2>
+        @* <p>@post.Name (@post.Email)</p> *@
+        <p>@post.Content</p>
+        @* <p>Skype: @post.SkypeId, Line: @post.LineId, KakaoTalk: @post.KakaoTalkId, Other: @post.OtherId</p> *@
+        <a href="/Posts/Delete/@post.Id">削除</a>
+    </div>
+}
+<a href="/Posts/Create">新規投稿</a>
